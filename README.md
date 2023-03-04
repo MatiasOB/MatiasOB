@@ -10,6 +10,7 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 - Data Analysis: Pandas, Numpy, Scipy, Statsmodels, Sympy, SqlAlchemy
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn, TensorFlow, Keras, Optuna
+- Finance: yfinance, yahooquery
 - Model Deployment: Streamlit
 - Database: PostgreSQL
 - Other Skills: Git, Jupyter Notebook, PowerBI, Primavera P6, Excel
@@ -18,14 +19,14 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 - [Ames Housing App](https://matiasob-data-sci-streamlit-appsames-housingames-housing-zxwbn3.streamlit.app/) -I developed my first Streamlit app using the Ames housing dataset, which involved performing exploratory data analysis, provide variable descriptions, building and interpreting a predictive model, and deploying the app
 
-- [S&P500 stock Analysis](https://matiasob-data-science-p-streamlit-appsstock-appstock-app-7cgvtn.streamlit.app/) - This App provides both basic and more technical information about individual S&P500 Stocks.
+- [S&P500 stock Analysis app](https://matiasob-data-science-p-streamlit-appsstock-appstock-app-7cgvtn.streamlit.app/) - This App provides both basic and more technical information about individual S&P500 Stocks.
 
 
 ## Education
 
-- [Master's Degree](Data Science) - Pontific Catholic University, (In Progress)
-- [Post Graduate Diploma](Data Science) - Santiago de Chile University (2022)
-- [Bachelor's Degree](Mining Engineer) - Andres Bello University, 2021
+- [Master's Degree] (Data Science) - Pontific Catholic University, (In Progress)
+- [Post Graduate Diploma] (Data Science) - Santiago de Chile University (2022)
+- [Bachelor's Degree] (Mining Engineer) - Andres Bello University, 2021
 
 ## Certifications
 
