@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Mining Engineer and a Data Scientist with more than 1 year of experience in data analysis, statistical modeling, and machine learning. I have a passion for solving complex problems and turning data into actionable insights. In my free time, I enjoy doing exercise, listening to podcasts and walking my dog.
+I'm a Mining Engineer and a Data Scientist with more than 1 year of experience in data analysis, statistical modeling, and machine learning. I have a passion for solving complex problems and turning data into actionable insights. In my free time, I enjoy doing exercise, football, listening to podcasts and walking my dog.
 
 ## Skills
 
