@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Matias Obaid👋
 
-<!--
-**MatiasOB/MatiasOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Mining Engineer and a Data Scientist with more than 1 year of experience in data analysis, statistical modeling, and machine learning. I have a passion for solving complex problems and turning data into actionable insights. In my free time, I enjoy doing exercise, listening to podcasts and walking my dog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: Python
+- Data Analysis: Pandas, Numpy, Scipy, Statsmodels, Sympy, SqlAlchemy
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Machine Learning: Scikit-learn, TensorFlow, Keras, Optuna
+- Model Deployment: Streamlit
+- Database: PostgreSQL
+- Other Skills: Git, Jupyter Notebook, PowerBI, Primavera P6, Excel
+
+## Projects
+
+- [Ames Housing App](https://matiasob-data-sci-streamlit-appsames-housingames-housing-zxwbn3.streamlit.app/) -I developed my first Streamlit app using the Ames housing dataset, which involved performing exploratory data analysis, provede variable descriptions, building and interpreting a predictive model, and deploying the app
+
+- [S&P500 stock Analysis](https://matiasob-data-science-p-streamlit-appsstock-appstock-app-7cgvtn.streamlit.app/) - This App provides both basic and more technical information about individual S&P500 Stocks.
+
+
+## Education
+
+- [Master's Degree](Data Science) - Pontific Catholic University, (In Progress)
+- [Post Graduate Diploma](Data Science) - Santiago de Chile University (2022)
+- [Bachelor's Degree](Mining Engineer) - Andres Bello University, 2021
+
+## Certifications
+
+- [TensorFlow Developer Certificate](Google) - Dec 2022
