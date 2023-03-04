@@ -10,9 +10,9 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 - Data Analysis: Pandas, Numpy, Scipy, Statsmodels, Sympy, SqlAlchemy
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn, TensorFlow, Keras, Optuna
-- Finance: yfinance, yahooquery
 - Model Interpretability: Shap
 - Model Deployment: Streamlit
+- Other libraries: yfinance, yahooquery, PacMap, Darts
 - Database: PostgreSQL
 - Other Skills: Git, Jupyter Notebook, PowerBI, Primavera P6, Excel
 
