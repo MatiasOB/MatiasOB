@@ -22,6 +22,7 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 - [S&P500 stock Analysis app](https://matiasob-data-science-p-streamlit-appsstock-appstock-app-7cgvtn.streamlit.app/) - This App provides both basic and technical information about individual S&P500 Stocks.
 
+I have a lot more projects but this are deployed in streamlit cloud, so its easier to showcase them :)
 
 ## Education
 
