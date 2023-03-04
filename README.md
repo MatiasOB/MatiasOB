@@ -29,4 +29,4 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 ## Certifications
 
-- [TensorFlow Developer Certificate](Google) - Dec 2022
+- [TensorFlow Developer Certificate](https://www.credential.net/77d75f33-d55c-4185-ab00-1da4462dfaf9) - Dec 2022
