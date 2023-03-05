@@ -29,6 +29,7 @@ I have several other projects, but these ones are deployed on Streamlit Cloud, w
 - [Master's Degree] (Data Science) - Pontific Catholic University, (In Progress)
 - [Post Graduate Diploma] (Data Science) - Santiago de Chile University (2022)
 - [Bachelor's Degree] (Mining Engineer) - Andres Bello University, 2021
+- Too many Online Courses
 
 ## Certifications
 
