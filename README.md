@@ -12,8 +12,8 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 - Machine Learning: Scikit-learn, TensorFlow, Keras, Optuna
 - Model Interpretability: Shap
 - Model Deployment: Streamlit
-- Other libraries: yfinance, yahooquery, PacMap, Darts
-- Database: PostgreSQL
+- Other libraries: yfinance, yahooquery, PacMap, Darts and many, many more.
+- Database Language: PostgreSQL
 - Other Skills: Git, Jupyter Notebook, PowerBI, Primavera P6, Excel
 
 ## Projects
@@ -24,7 +24,7 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 - [Covid-19 Dashboard](https://matiasob-data-sc-streamlit-appsdashboard-examplecovid-19-4i3hf3.streamlit.app/) - This App proves a very basic dashboard to track covid-19 data from various countries.
 
-I have several other projects, but the ones i'm showing here are deployed on Streamlit Cloud, which makes it easier to showcase them. Feel free to also check out my   [Kaggle Account](https://www.kaggle.com/matiasob) or some of the public repositories in my github account.
+I have several other projects, but the ones i'm showing here are deployed on Streamlit Cloud, which makes it easier to showcase them. Feel free to also check out my   [Kaggle Account](https://www.kaggle.com/matiasob) or some of the public repositories in my github.
 
 ## Education
 
