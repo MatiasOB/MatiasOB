@@ -22,7 +22,7 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 - [S&P500 stock Analysis app](https://matiasob-data-science-p-streamlit-appsstock-appstock-app-7cgvtn.streamlit.app/) - This App provides both basic and technical information about individual S&P500 Stocks.
 
-- [Covid-19 Dashboard](https://matiasob-data-sc-streamlit-appsdashboard-examplecovid-19-4i3hf3.streamlit.app/) - This app proves a very basic dashboard to track covid-19 data from various countries.
+- [Covid-19 Dashboard](https://matiasob-data-sc-streamlit-appsdashboard-examplecovid-19-4i3hf3.streamlit.app/) - This App proves a very basic dashboard to track covid-19 data from various countries.
 
 I have several other projects, but the ones i'm showing here are deployed on Streamlit Cloud, which makes it easier to showcase them. Feel free to also check out my   ![Kaggle Account](https://www.kaggle.com/matiasob) or some of my public repositories in this github account.
 
