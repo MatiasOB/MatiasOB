@@ -18,7 +18,7 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 ## Projects
 
-- [Quality Prediction in a Mining Process](https://www.kaggle.com/code/matiasob/dataset-is-corrupt-and-should-not-be-used) - Here, I performed an in-depth analysis to demonstrate that this dataset is corrupted due to a series of anomalies (I'm the first one to suggest this idea). The dataset is fairly unknown; less than 50 people have submitted a notebook in Kaggle related to it. Additionally, it is the only publicly available dataset (that i know of) related to the flotation process inside an Iron Concentrate processing plant.
+- [Quality Prediction in a Mining Process](https://www.kaggle.com/code/matiasob/dataset-is-corrupt-and-should-not-be-used) - Here i performed an in-depth analysis to demonstrate that this dataset is corrupted due to a series of anomalies (I'm the first one to suggest this idea). The dataset is fairly unknown; less than 50 people have submitted a notebook in Kaggle related to it. Additionally, it is the only publicly available dataset (that i know of) related to the flotation process inside an Iron Concentrate processing plant.
 
 - [Ames Housing App](https://matiasob-data-sci-streamlit-appsames-housingames-housing-zxwbn3.streamlit.app/) - I developed my first Streamlit app using the Ames housing dataset ([Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)), which involves performing exploratory data analysis, providing feature descriptions, building a ETL pipeline to generate data ready to be fed in a ML model for inference to predict house prices, and finally deploying the app in streamlit cloud.
 
