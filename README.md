@@ -26,8 +26,6 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 - [Covid-19 Dashboard](https://matiasob-data-sc-streamlit-appsdashboard-examplecovid-19-4i3hf3.streamlit.app/) - This App provides a very basic dashboard to track covid-19 data from various countries.
 
-- [MAVEN MARKET](https://app.powerbi.com/reportEmbed?reportId=ac12603c-384c-42f3-822c-45f615a0f3d7&autoAuth=true&ctid=6fd48f41-af81-45a5-9c1e-e3990bc27e7c)
-
 I have several other projects, but most of the ones that i'm showing here are deployed on Streamlit Cloud, which makes it easier to showcase them. Feel free to also check out my [Kaggle Account](https://www.kaggle.com/matiasob) or some of the public repositories in my github.
 
 ## Education
