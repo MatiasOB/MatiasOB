@@ -24,8 +24,6 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 - [Food Vision App](https://matiasob-food-vision-food-vision-fmv6oj.streamlit.app/) - This Streamlit App is capable of classifying images into 10 different food classes and is built around the Food 101 dataset. Due to time and computational power constraints, the app uses only 10 classes instead of the original 101. The project involves implementing transfer learning and fine-tuning an EfficientNetV2B3 model in TensorFlow to achieve this task, as well as handling all the pipelines required to turn it into a functional app."
 
-- [S&P500 stock Analysis app](https://matiasob-data-science-p-streamlit-appsstock-appstock-app-7cgvtn.streamlit.app/) - This app provides both basic and technical information about individual S&P500 stocks. It utilizes the yahooquery library to connect in real-time with up-to-date data from Yahoo Finance.
-
 I have several other projects, but most of the ones that i'm showing here are deployed on Streamlit Cloud, which makes it easier to showcase them. Feel free to also check out my [Kaggle Account](https://www.kaggle.com/matiasob) or some of the public repositories in my github.
 
 ## Education
