@@ -4,6 +4,8 @@
 
 I'm a Mining Engineer and a Data Scientist with more than 1 year of experience in data analysis, statistical modeling and machine learning. I have a passion for solving complex problems and turning data into actionable insights. In my free time, I enjoy doing exercise, watching football, listening to podcasts, reading and learning new stuff in the fast moving but broad field of data science.
 
+[MAOB](https://www.maob.cl)
+
 ## Skills
 
 - Programming Languages: Python
@@ -18,10 +20,9 @@ I'm a Mining Engineer and a Data Scientist with more than 1 year of experience i
 
 ## Education
 
-- [Master's Degree] (Data Science) - Pontific Catholic University, (In Progress)
+- [Master's Degree] (Data Science) - Pontific Catholic University.
 - [Post Graduate Diploma] (Data Science) - Santiago de Chile University (2022)
 - [Bachelor's Degree] (Mining Engineer) - Andres Bello University, 2021
-- Too many Online Courses
 
 ## Certifications
 
